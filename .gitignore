@@ -1,0 +1,8 @@
+# Default .gitignore from latest oldproj.
+kotya-web*
+*.sublime-project
+*.sublime-workspace
+__pycache__/
+*.py[cod]
+passwords.py
+vk_config.v2.json
